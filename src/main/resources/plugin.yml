@@ -1,0 +1,9 @@
+name: NoEnderPearlsExample
+version: '${version}'
+main: me.kqlix.noenderpearls.NoEnderPearls
+api-version: '1.20'
+author: kqlix
+description: Disables ender-pearls
+commands:
+  noenderpearls-reload:
+    description: Reloads plugin
